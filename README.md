@@ -5,7 +5,7 @@
 1. Clone the repo or extract the ZIP.
 2. Create a virtual environment:
 python -m venv env
-source env/bin/activate # or .\env\Scripts\activate on Windows
+source env/bin/activate # or env\Scripts\activate on Windows
 
 
 3. Install requirements:
@@ -25,7 +25,7 @@ python manage.py runserver
 ---
 
 As Example
-In  Uiux  all thing include
+In  UIUX  all things include
 
 ## 🔑 Test Credentials
 
